@@ -6,6 +6,8 @@ Este proyecto académico implementa, compara y evalúa dos enfoques de aprendiza
 - Un clasificador ultraligero basado en YOLO-cls.
 
 El conjunto de datos utilizado es *Breast Histopathology Images*, disponible en Kaggle. Contiene parches histopatológicos etiquetados según la presencia o ausencia de IDC.
+Al ser bastante pesada la base de datos subo en este espacio el link a drive de donde se encuentra el .zip de la base de datos : https://drive.google.com/file/d/1H_TNhX5i_2ky6SR5KNTohO4ArWMNap0-/view?usp=sharing
+
 
 > Proyecto con fines exclusivamente académicos y de investigación experimental. No constituye un sistema de diagnóstico médico.
 
